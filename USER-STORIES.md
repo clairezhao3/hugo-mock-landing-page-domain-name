@@ -1,4 +1,4 @@
-# User Stories for IntegriMark
+# User Stories for Melt the App
 
 This is a backlog of user stories for Melt, a platform for creating, discovering, and sharing recipes. The user stories follow the INVEST criteria.
 
