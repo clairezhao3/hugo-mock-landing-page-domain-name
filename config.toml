@@ -1,4 +1,4 @@
-baseURL = 'https://clairezhao3.github.io/hugo-mock-landing-page/'
+baseURL = 'https://<GitHub username>.github.io/hugo-mock-landing-page-autodeployed/'
 title = "Melt the App"
 author = "Claire Zhao"
 copyright = "Claire Zhao"
